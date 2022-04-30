@@ -11,6 +11,7 @@
     <modules>
         <module>threadlocal</module>
         <module>compeletableFuture</module>
+        <module>juc</module>
     </modules>
 
     <properties>
