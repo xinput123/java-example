@@ -12,6 +12,7 @@
         <module>threadlocal</module>
         <module>compeletableFuture</module>
         <module>juc</module>
+        <module>thread-demo</module>
     </modules>
 
     <properties>
